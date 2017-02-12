@@ -25,7 +25,7 @@ public abstract class Product {
 		
 	}
 
-	public BigDecimal getPrice() {
+	public BigDecimal getNettoPrice() {
 		return price;
 	}
 
